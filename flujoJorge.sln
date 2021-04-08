@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiProductor", "ApiProductor\ApiProductor.csproj", "{15180CD2-4DEB-4DC7-9A58-0D109E20F0EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiProductor", "ApiProductor\ApiProductor.csproj", "{15180CD2-4DEB-4DC7-9A58-0D109E20F0EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiConsumidor", "ApiConsumidor\ApiConsumidor.csproj", "{C854067F-BB46-4FB5-979E-2F9427981C5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{15180CD2-4DEB-4DC7-9A58-0D109E20F0EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15180CD2-4DEB-4DC7-9A58-0D109E20F0EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15180CD2-4DEB-4DC7-9A58-0D109E20F0EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C854067F-BB46-4FB5-979E-2F9427981C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C854067F-BB46-4FB5-979E-2F9427981C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C854067F-BB46-4FB5-979E-2F9427981C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C854067F-BB46-4FB5-979E-2F9427981C5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
