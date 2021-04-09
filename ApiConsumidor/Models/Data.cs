@@ -1,9 +1,10 @@
-﻿namespace ApiProductor.Models
+﻿namespace ApiConsumidor.Models
 {
     using System;
     using System.ComponentModel.DataAnnotations;
     public class Data
-    {[Key]
+    {
+        [Key]
         public string NameDevice { get; set; }
 
         [DataType(DataType.DateTime)]
